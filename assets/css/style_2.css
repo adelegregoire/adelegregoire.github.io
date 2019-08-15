@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+#video1 {
+    position: absolute;
+    opacity: 0.7;
+    
+}
+
+#video2 {
+    position: absolute;
+    opacity: 0.7;
+    
+}
+
+#video3 {
+   position: absolute;
+    opacity: 0.7;
+   
+}
+

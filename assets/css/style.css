@@ -1,0 +1,23 @@
+body {
+/*	background-color: #002fa7; */
+background-color: black;
+}
+
+#video1 {
+    position: absolute;
+  	/*opacity: 0.7;*/
+    margin: 0 auto;
+}
+
+#video2 {
+    position: absolute;
+   	/*opacity: 0.7;*/
+    margin: 0 auto;
+}
+
+#video3 {
+   position: absolute;
+   opacity: 0.7;
+    margin: 0 auto;
+}
+
